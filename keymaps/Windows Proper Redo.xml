@@ -1,0 +1,23 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine" />
+  <action id="JumpToLastWindow" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>
