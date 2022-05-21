@@ -27,6 +27,7 @@
       <list>
         <option value="multiprocess.Process" />
         <option value="multiprocess.*" />
+        <option value="key_spyder.*" />
       </list>
     </option>
   </inspection_tool>
