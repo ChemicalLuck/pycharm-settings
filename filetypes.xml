@@ -5,15 +5,12 @@
       <mapping pattern="2021-01-13_freddie.xlsx" type="AUTO_DETECTED" />
       <mapping pattern="key-spyder" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LISCENSE" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
-      <removed_mapping pattern=".env" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
