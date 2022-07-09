@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="key-spyder" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -11,6 +10,7 @@
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
     </extensionMap>
