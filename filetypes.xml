@@ -10,7 +10,7 @@
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
-      <removed_mapping pattern=".env" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
     </extensionMap>
