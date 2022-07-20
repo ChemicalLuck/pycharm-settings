@@ -4,9 +4,30 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="JumpToLastWindow" />
+  <action id="JupyterNotebookMoveCellDownCommandModeAction">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="JupyterNotebookMoveCellUpCommandModeAction">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -20,4 +41,5 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
 </keymap>
